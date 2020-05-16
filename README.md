@@ -12,5 +12,5 @@ This is a project for the Web Development course at the Minneapolis College of A
 
 Project Code: [Davy Jones](https://davyjonesdesign.com)
 
-Source Design: [National Geographic](https://www.behance.com)
+Source Design: [Behance](https://www.behance.com)
 
