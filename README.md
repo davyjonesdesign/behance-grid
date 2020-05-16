@@ -1,2 +1,16 @@
 # behance-grid
- project recreating behance home page with gird layout
+
+> A Reconstruction of Behance Home Page
+
+## About
+
+This is a project for the Web Development course at the Minneapolis College of Art and Deisgn. In this example, we dissect and recreate the excellent [Behance homepage](https://www.behance.com/).
+
+- [Homepage Recreation](https://davyjonesdesign.github.io/behance-grid/index.html)
+
+## Author
+
+Project Code: [Davy Jones](https://davyjonesdesign.com)
+
+Source Design: [National Geographic](https://www.behance.com)
+
